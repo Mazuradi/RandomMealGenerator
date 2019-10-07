@@ -10,3 +10,8 @@ A web application designed to pull a random meal from a public API and then disp
 ```javascript
 fetch(https://www.themealdb.com/api/json/v1/1/random.php)
 ```
+
+#### Issues
+ * Still need to fix tags
+ * Need to fix ingredient amount
+ * Design issues need to be fixed
